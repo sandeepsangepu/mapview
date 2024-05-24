@@ -9,7 +9,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill-color": "#f4c8f4",
+        "fill": "#f4c8f4",
         "fill-opacity": 0.5,
         "region": "northwest"
       },
